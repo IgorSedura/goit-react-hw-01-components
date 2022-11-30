@@ -25,8 +25,8 @@ export const Th = styled.th`
 export const Td = styled.td`
   height: 15px;
 
-  text-align: left;
-  padding-left: 80px;
+  text-align: center;
+
   border: 1px solid black;
   padding-bottom: 15px;
   padding-top: 15px;
